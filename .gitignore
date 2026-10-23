@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+static/uploads/*
+!static/uploads/.gitkeep
+data/database.json
+data/database.tmp
+data/database.corrupt-*.json
